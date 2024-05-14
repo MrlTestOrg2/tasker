@@ -33,6 +33,6 @@
       "options": { "targetName": "playwright:e2e" }
     }
   ],
-  "nxCloudAccessToken": "MjA2NzEwMDctOTdhNi00ZTNkLTgwZjctZmEwMzdkNmU4YmE4fHJlYWQtd3JpdGU=",
+  "nxCloudAccessToken": "MmIwZjJhYTItNTlmZC00OWIwLWJhNzgtYjVlOGQ1MzNhYjQ5fHJlYWQtd3JpdGU=",
   "nxCloudUrl": "http://localhost:4202"
 }
