@@ -30,9 +30,9 @@
     },
     {
       "plugin": "@nx/playwright/plugin",
-      "options": {
-        "targetName": "playwright:e2e"
-      }
+      "options": { "targetName": "playwright:e2e" }
     }
-  ]
+  ],
+  "nxCloudAccessToken": "MjA2NzEwMDctOTdhNi00ZTNkLTgwZjctZmEwMzdkNmU4YmE4fHJlYWQtd3JpdGU=",
+  "nxCloudUrl": "http://localhost:4202"
 }
