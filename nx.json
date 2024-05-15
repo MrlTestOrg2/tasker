@@ -6,7 +6,14 @@
       "plugin": "@nx/eslint/plugin",
       "options": {
         "targetName": "eslint:lint",
-        "extensions": ["ts", "tsx", "js", "jsx", "html", "vue"]
+        "extensions": [
+          "ts",
+          "tsx",
+          "js",
+          "jsx",
+          "html",
+          "vue"
+        ]
       }
     },
     {
@@ -34,5 +41,7 @@
         "targetName": "playwright:e2e"
       }
     }
-  ]
+  ],
+  "nxCloudAccessToken": "NjhhZmE0NjQtNjQzOC00MzE3LThlYjQtM2I2M2Y0NWUzZjdhfHJlYWQtd3JpdGU=",
+  "nxCloudUrl": "https://staging.nx.app"
 }
