@@ -6,14 +6,7 @@
       "plugin": "@nx/eslint/plugin",
       "options": {
         "targetName": "eslint:lint",
-        "extensions": [
-          "ts",
-          "tsx",
-          "js",
-          "jsx",
-          "html",
-          "vue"
-        ]
+        "extensions": ["ts", "tsx", "js", "jsx", "html", "vue"]
       }
     },
     {
@@ -37,11 +30,9 @@
     },
     {
       "plugin": "@nx/playwright/plugin",
-      "options": {
-        "targetName": "playwright:e2e"
-      }
+      "options": { "targetName": "playwright:e2e" }
     }
   ],
-  "nxCloudAccessToken": "NTExNGFiOTMtNzM5OC00NWI5LThjNDAtNTNjNDczMmViMjgxfHJlYWQtd3JpdGU=",
-  "nxCloudUrl": "https://staging.nx.app"
+  "nxCloudAccessToken": "YWY1OGNhYTEtNDk2ZC00OWVjLWE2OGQtNTBjMmE5MGQ0ZmIyfHJlYWQtd3JpdGU=",
+  "nxCloudUrl": "http://localhost:4202"
 }
